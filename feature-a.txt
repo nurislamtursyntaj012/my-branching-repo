@@ -1,2 +1,6 @@
 This is feature A
+<<<<<<< HEAD
 Conflict line from main
+=======
+Conflict line from feature-a
+>>>>>>> feature-a
